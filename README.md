@@ -4,8 +4,8 @@ This github will be an eclectic mix of various interests both in physics and com
 
 I typically work in Python, Go, C, and Bash. 
 
-Experience in CLI/TUI tooling, machine learning, data structures, computer architecture,
-and data processing.
+Experience in CLI/TUI tooling, machine learning, data structures, 
+computer architecture, and data processing.
 
 
 **Work:**
