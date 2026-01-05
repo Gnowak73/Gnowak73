@@ -7,7 +7,7 @@ I typically work in Python, Go, C, and Bash.
 Experience in CLI/TUI tooling, machine learning, data structures, 
 computer architecture, and data processing.
 
-
+---
 **Work:**
 - Symplectic geometry & cotangent bundle methods
 - Geometric quantization on phase space
