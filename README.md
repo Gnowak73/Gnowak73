@@ -5,7 +5,7 @@ This github will be an eclectic mix of various interests both in physics and com
 I typically work in Python, Go, C, and scripting for CLI/TUI tooling,
 machine learning, and data processing.
 
-
+\\
 **Work:**
 - Symplectic geometry & cotangent bundle methods
 - Geometric quantization on phase space
