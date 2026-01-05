@@ -3,17 +3,19 @@
 This github will be an eclectic mix of various interests both in physics and computer science.
 
 ### Physics Focus
-- Symplectic geometry and cotangent bundle structures
-- Geometric quantization and operator theory on phase space
-- Classical magnetization, ergodicity, and statistical mechanics
-- Hamiltonian flows and phase space dynamics
-- Concurrent, memory-efficient pipelines for solar flare inversion
-  and DEM reconstruction
+- Symplectic geometry & cotangent bundle methods
+- Geometric quantization on phase space
+- Classical magnetization & ergodicity
+- Hamiltonian dynamics
+- Solar flare inversion & DEM reconstruction
 
 ### Tools
-Python, Go, C++, Bash  
-Scientific computing, parallelism, inversion methods, reproducible CLI/TUI tooling
+Python · Go · C++ · Bash  
+Scientific computing · parallelism · inversion methods · CLI/TUI tooling
 
 ### Background
-B.S. Physics (Honors with Distinction and a Thesis, Summa Cum Laude), B.A. Mathematics  
+B.S. Physics[^1]  
+B.A. Mathematics  
 Barry Goldwater Scholar
+
+[^1]: Honors with Distinction (Thesis), *Summa Cum Laude*.
