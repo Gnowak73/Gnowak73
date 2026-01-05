@@ -2,7 +2,7 @@
 
 This github will be an eclectic mix of various interests both in physics and computer science.
 
-### Physics Focus
+### Work
 - Symplectic geometry & cotangent bundle methods
 - Geometric quantization on phase space
 - Classical magnetization & ergodicity
@@ -18,4 +18,4 @@ B.S. Physics[^1]
 B.A. Mathematics  
 Barry Goldwater Scholar
 
-[^1]: Honors with Distinction (Thesis), *Summa Cum Laude*.
+[^1]: Summa Cum Laude. Thesis awarded Honors with Distinction.
