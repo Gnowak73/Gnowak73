@@ -7,12 +7,6 @@ This github will be an eclectic mix of various interests both in physics and com
 - Geometric quantization and operator theory on phase space
 - Classical magnetization, ergodicity, and statistical mechanics
 - Hamiltonian flows and phase space dynamics
-- Computational methods for plasma and solar physics
-
-### Work
-- Development of quantum mechanics on \( T^*M \) using line bundles,
-  nonlinear connections, and Koopman–von Neumann formulations
-- Classical counterexamples to the Bohr–van Leeuwen theorem
 - Concurrent, memory-efficient pipelines for solar flare inversion
   and DEM reconstruction
 
