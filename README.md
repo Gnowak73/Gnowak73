@@ -10,12 +10,10 @@ This github will be an eclectic mix of various interests both in physics and com
 - Solar flare inversion & DEM reconstruction
 
 **Tools:**
-
 Python · Go · C++ · Bash  
 Scientific computing · parallelism · inversion methods · CLI/TUI tooling
 
 **Background:**
-
 B.S. Physics[^1]  
 B.A. Mathematics  
 Barry Goldwater Scholar
