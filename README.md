@@ -1,16 +1,25 @@
-## Hi there 👋
+## Gabriel Nowaskie
 
-<!--
-**Gnowak73/Gnowak73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This github will be an eclectic mix of various interests both in physics and computer science.
 
-Here are some ideas to get you started:
+### Physics Focus
+- Symplectic geometry and cotangent bundle structures
+- Geometric quantization and operator theory on phase space
+- Classical magnetization, ergodicity, and statistical mechanics
+- Hamiltonian flows and phase space dynamics
+- Computational methods for plasma and solar physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work
+- Development of quantum mechanics on \( T^*M \) using line bundles,
+  nonlinear connections, and Koopman–von Neumann formulations
+- Classical counterexamples to the Bohr–van Leeuwen theorem
+- Concurrent, memory-efficient pipelines for solar flare inversion
+  and DEM reconstruction
+
+### Tools
+Python, Go, C++, Bash  
+Scientific computing, parallelism, inversion methods, reproducible CLI/TUI tooling
+
+### Background
+B.S. Physics (Honors with Distinction and a Thesis, Summa Cum Laude), B.A. Mathematics  
+Barry Goldwater Scholar
