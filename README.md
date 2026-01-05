@@ -15,7 +15,8 @@ computer architecture, and data processing.
 - Hamiltonian dynamics
 - Solar flare inversion & DEM reconstruction
 
-### Education
+**Education:**
+
 B.S. Physics[^1]  
 B.A. Mathematics  
 Barry Goldwater Scholar
